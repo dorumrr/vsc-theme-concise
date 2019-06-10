@@ -1,0 +1,47 @@
+{
+  "name": "concise",
+  "displayName": "Concise",
+  "version": "1.0.0",
+  "description": "A crisp dark theme with bold colors.",
+  "license": "MIT",
+  "author": {
+    "name": "Doru Moraru",
+    "email": "doru.moraru@gmail.com",
+    "url": "https://doru-moraru.com"
+  },
+  "icon": "images/icon.png",
+  "publisher": "dorumoraru",
+  "publisherDisplayName": "Doru Moraru",
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "galleryBanner": {
+		"color": "#23262E",
+		"theme": "dark"
+	},
+  "contributes": {
+    "themes": [
+      {
+        "label": "Concise Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/concise.json"
+      }
+    ]
+  },
+  "keywords": [
+    "theme",
+    "vscode",
+    "focus",
+    "clean"
+  ],
+  "repository": {
+    "type": "git",
+		"url": "https://github.com/dorumrr/vsc-theme-concise"
+	},
+  "devDependencies": {
+    "vsce": "^1.62.0"
+  }
+}
