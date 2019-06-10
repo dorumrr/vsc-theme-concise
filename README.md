@@ -1,7 +1,10 @@
-# Concise
+# Concise Theme
 
 Crisp and clean Visual Studio Code Theme with bold colours.
 
+### Screenshot
+
+![Concise theme](images/screenshot.png)
 
 ### Installation
 
@@ -12,9 +15,3 @@ or
 Run the following command in VSCode's integrated terminal
 
 `code --install-extension dorumoraru.concise`
-
-### Screenshot
-
-
-![Concise theme](images/screenshot.png)
-
