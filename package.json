@@ -40,7 +40,11 @@
   "repository": {
     "type": "git",
 		"url": "https://github.com/dorumrr/vsc-theme-concise"
-	},
+  },
+  "bugs": {
+    "email": "doru.moraru@gmail.com",
+    "url": "https://github.com/dorumrr/vsc-theme-concise/issues"
+  },
   "devDependencies": {
     "vsce": "^1.62.0"
   }

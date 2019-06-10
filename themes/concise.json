@@ -57,13 +57,13 @@
         "editorGroup.background": "#23262E",
         "editorGroup.dropBackground": "#495061d7",
         "editorGroupHeader.tabsBackground": "#23262E",
+        "editorGroupHeader.tabsBorder": "#333333",
 
         "tab.activeBackground": "#23262e",
         "tab.activeForeground": "#ffffff",
         "tab.inactiveBackground": "#000000",
         "tab.inactiveForeground": "#746f77",
         "tab.border": "#333333",
-
 
         "editor.background": "#000000",
         "editor.foreground": "#D5CED9",
@@ -131,6 +131,7 @@
         "statusBarItem.hoverBackground": "#07d4b5b0",
         "statusBarItem.prominentBackground": "#07d4b5b0",
         "statusBarItem.prominentHoverBackground": "#00e8c5cc",
+        "statusBar.border": "#333333",
 
         "titleBar.activeBackground": "#000000",
         "titleBar.activeForeground": "#ffffff",
@@ -152,6 +153,7 @@
         "debugToolBar.background": "#20232A",
 
         "walkThrough.embeddedEditorBackground": "#23262E"
+
     },
     "tokenColors": [
         {
