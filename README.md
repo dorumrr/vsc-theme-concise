@@ -1,6 +1,6 @@
 # Concise Theme
 
-Crisp and clean Visual Studio Code Theme with bold colours.
+Crisp and clean [Visual Studio Code Theme](https://marketplace.visualstudio.com/items?itemName=dorumoraru.concise) with bold colours.
 
 ### Screenshot
 
