@@ -1,7 +1,7 @@
 {
   "name": "concise",
   "displayName": "Concise Theme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A crisp dark theme with bold colors.",
   "license": "MIT",
   "author": {
@@ -19,9 +19,9 @@
     "Themes"
   ],
   "galleryBanner": {
-		"color": "#23262E",
-		"theme": "dark"
-	},
+    "color": "#23262E",
+    "theme": "dark"
+  },
   "contributes": {
     "themes": [
       {
@@ -39,7 +39,7 @@
   ],
   "repository": {
     "type": "git",
-		"url": "https://github.com/dorumrr/vsc-theme-concise"
+    "url": "https://github.com/dorumrr/vsc-theme-concise"
   },
   "bugs": {
     "email": "doru.moraru@gmail.com",
